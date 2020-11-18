@@ -1,5 +1,26 @@
 # Exercices d'algorithmique
 
+Il existe un "langage algorithmique", qui consiste à écrire des séquences d'opérations à l'aide mots-clés. Ce langage possède une syntaxe reposant sur le langage naturel, dont voici un exemple :
+
+// Déclaration des variables
+VAR A,B : entiers
+DEBUT
+    Afficher "Saisir un nombre"
+    Saisir A
+    Si A > 0 Alors
+        Afficher "A est positif"
+    Sinon
+        Si a > 0
+            Afficher "A est négatif"
+    Sinon
+        Afficher "A est nul"
+FIN
+
+Pour les répétitions, utiliser des blocs **Tant Que...Fin Tant Que** et **Pour...Fin pour**
+
+---
+
+
 ## Variables, conditions, répétitions
 
 ### Ex 1
