@@ -18,7 +18,7 @@ DEBUT
         
     Sinon
     
-        Si a > 0
+        Si A < 0
         
             Afficher "A est négatif"
             
@@ -29,10 +29,11 @@ DEBUT
 FIN
 
 
-Pour les répétitions, utiliser des blocs **Tant Que...Fin Tant Que** et **Pour...Fin pour**
+Pour les répétitions, utiliser des blocs **Tant Que...Fin Tant Que** et **Pour...Fin Pour**
 
 ---
 
+Dans les exercices qui suivent, l'expression A <- 3 signifie "A prend pour valeur 3" (ce qui équivaut à A=3 dans un langage de programmation).
 
 ## Variables, conditions, répétitions
 
