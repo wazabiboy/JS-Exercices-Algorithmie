@@ -16,7 +16,7 @@ Le nombre à deviner sera denommé "nombre mystère"
         - Option : demander à l'utilisateur s'il souhaite rejouer ou non.
 
 ### Etape 3
-    - Calculer le nombre de coups minimal qu'il faut à l'utilisateur pour être sûr de trouver le nombre mystère.
+    - Calculer le nombre de coups maximal qu'il faut à l'utilisateur pour être sûr de trouver le nombre mystère.
 
 ### Etape 4 : on inverse les rôles !
     - Créez un programme qui devine un nombre entre 1 et 100. On répondra à chaque essai de l'ordinateur :
