@@ -111,5 +111,5 @@ let vétéran = "40 ans et plus"
 for ( let a = 1; a <= 10; a++ ) {
     console.log( a );}
     
-// Ecrire un algorithme qui affiche les nombres de 1 à 10 par ordre décroissant.
+// Ecrire un algorithme qui affiche les nombres de 1 à 10 par .
 
